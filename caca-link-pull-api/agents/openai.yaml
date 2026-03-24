@@ -1,0 +1,7 @@
+interface:
+  display_name: "Caca Link Pull API"
+  short_description: "Submit async media-pull jobs and poll results"
+  default_prompt: "Use $caca-link-pull-api to submit a cacaLinkPull job, poll its status, and debug request or response handling."
+
+policy:
+  allow_implicit_invocation: true
